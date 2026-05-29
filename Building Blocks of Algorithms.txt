@@ -1,0 +1,29 @@
+Three Building Blocks of Algorithms
+
+1. Sequence
+Sequence means instructions are executed one after another in order.
+Example:
+
+python
+name = input("Enter your name: ")
+print("Hello", name)
+
+2. Selection (IF Statement)
+Selection allows decisions to be made based on conditions.
+Example:
+
+python
+age = 18
+
+if age >= 18:
+    print("You can vote")
+else:
+    print("You cannot vote")
+
+3. Iteration (Loops)
+Iteration means repeating instructions multiple times.
+Example:
+
+python
+for i in range(5):
+    print(i)
