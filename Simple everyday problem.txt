@@ -1,0 +1,17 @@
+Simple Everyday problem
+
+
+START
+  PRINT "What is the temperature outside in degrees Celsius?"
+  INPUT temperature
+  
+  IF temperature < 15 THEN
+    PRINT "Wear a heavy coat and a scarf."
+  ELSE IF temperature >= 15 AND temperature <= 25 THEN
+    PRINT "Wear a light jacket or sweater."
+  ELSE
+    PRINT "Wear a t-shirt and shorts."
+  ENDIF
+  
+  PRINT "Have a great day!"
+END
