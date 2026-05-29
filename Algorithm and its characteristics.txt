@@ -1,0 +1,25 @@
+What is an Algorithm?
+
+An algorithm is a step-by-step procedure used to solve a problem or perform a task.
+
+Algorithms are used in programming, mathematics, and everyday activities such as cooking, driving, or sending messages.
+
+Main Characteristics of an Algorithm
+
+1. Input
+   - An algorithm accepts zero or more inputs.
+
+2. Output
+   - It produces at least one output or result.
+
+3. Definiteness
+   - Every step must be clear and unambiguous.
+
+4. Finiteness
+   - The algorithm must end after a finite number of steps.
+
+5. Effectiveness
+   - Each step must be simple and executable.
+
+6. Correctness
+   - The algorithm should produce the correct result for valid input.
