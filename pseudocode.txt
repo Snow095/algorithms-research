@@ -1,0 +1,10 @@
+Pseudocode is a detailed yet easily readable description of what a computer program or algorithm must do, written in structured, natural language rather than a specific programming language. It is used for human planning before coding begins.
+
+Example
+
+START
+  INPUT number1
+  INPUT number2
+  SET sum = number1 + number2
+  PRINT sum
+END
