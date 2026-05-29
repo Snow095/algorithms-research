@@ -1,0 +1,9 @@
+A flowchart is a visual diagram that represents the steps of an algorithm or process using standardized shapes connected by arrows showing the flow of direction.
+
+Standard Flowchart Symbols
+Symbol Shape	Name			Purpose
+Oval / Pill	Terminal		Represents the Start or End of a process.
+Parallelogram	Input/Output		Represents entering data or displaying results (e.g., Read X).
+Rectangle	Process			Represents an action, operation, or calculation (e.g., x = x + 1).
+Diamond		Decision		Represents a conditional question (Yes/No or True/False branch).
+Arrows		Flow Lines		Indicates the sequence and direction of the process.
